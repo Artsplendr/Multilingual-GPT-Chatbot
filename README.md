@@ -4,7 +4,6 @@ A lightweight, zero-cost prototype that chats in English 🇬🇧 and German �
 
 ## Features
 
-### Capability	Details
 - Automatic language detection:	uses langdetect to identify the user’s language (any script).
 - Bi-directional translation:	routes non-English input through Google Translate, sends the English text to GPT, then returns GPT’s answer translated back to the original language.
 - GPT integration: defaults to gpt-3.5-turbo.
