@@ -10,9 +10,5 @@ A lightweight, zero-cost prototype that chats in English 🇬🇧 and German �
 - GPT integration: defaults to gpt-3.5-turbo.
 - 100 % free translation:	relies on Google Translate’s public endpoints via deep-translator, no Google Cloud key needed.
 
-### Acknowledgements
-	•	OpenAI for the GPT models.
-	•	Google Translate (via the deep-translator) for free multilingual support.
-	
 
 
